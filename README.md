@@ -4,5 +4,5 @@ In this program, I learned to design data models, build data warehouses and data
 My goal for learning this Nanodegree is to become more aware of the problems relating to data processing that a Machine Learning team faces and the tools needed to solve those problems.  
 <p align="center">
     <img src="images/dsHierarchy.png" alt><br>
-    <em>Figure 1: Data Science Hierarchy of Needs</em>
+    <em>Figure 1: Data Science Hierarchy of Needs (Source: Monica Rogati’s Medium post “The AI Hierarchy of Needs”)</em>
 </p>
